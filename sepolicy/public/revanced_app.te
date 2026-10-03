@@ -1,2 +1,2 @@
-type revanced_app, domain;
+type revanced_app, domain, coredomain;
 typeattribute revanced_app mlstrustedsubject;
